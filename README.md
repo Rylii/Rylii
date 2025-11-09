@@ -1,6 +1,6 @@
 <h5 align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqokoegajddtfezndvbdemnqpm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c51b1b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqokoegajddtfezndvbdemnqpm&redirect=true)
+[![spotify-github-profile](<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/79V78aPtRh3XkqdN5b8NZk?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
                                       <p align="center" width="100%"> <img src="https://komarev.com/ghpvc/?username=Nshimuraz&label=&color=393939">
                                    
    Specter | Bad Omens.
