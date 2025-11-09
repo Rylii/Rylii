@@ -1,6 +1,6 @@
 <h5 align="center">
 
-[![spotify-github-profile](<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/79V78aPtRh3XkqdN5b8NZk?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=u9v6qafcoznpsh9b98b1lujws&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1a1414&interchange=false&profanity=false&bar_color=6dd26a&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
                                       <p align="center" width="100%"> <img src="https://komarev.com/ghpvc/?username=Nshimuraz&label=&color=393939">
                                    
    Specter | Bad Omens.
@@ -27,14 +27,3 @@ But I've learned to live
 
 ![1648f9a18ed43d17d7ca75315282870a](https://github.com/user-attachments/assets/a4b85df1-3fbb-420c-aa80-74720f582119)
 
-W̶̠̪̬̟̬̮͙̼͠i̷̢̢̲̗͈̤̓̅̓̿̓̄t̸̛̘̭̮͙͍̟̜͆̿͒͑̈́͆̈́͠h̵̗̒ ̶̮̬̘̝͈̟̠̜́̓͐͌̽̿͠t̷̢̢̘̜̗̖̗̗̟̻̆̀̏̆͠ḩ̵̹͚̮̤̈́ę̸̢̧̥̖̱̳͈̈́͐͜͝ ̷̛̠̟̈́̓̒̾w̵̬͕̪͙̯̣̾̋̓a̶̙̝͖̺̼̜͗̂̿͒̅̀͜ͅy̶̨̦̝̼̺̪͚̩͕̋̈́͂͂̅́̏̽̕͜͝ ̵̳̙͎̈t̵̨̺͉͚̟͓͙͑̎̆̓͑͑̚̚͜͝h̷͈̙͍͚̃a̴̢͚̝̤̓̌͐̆̎̂̐̃ͅt̴̢̧͓̥͕͖͎̦̻̀ ̷̛͇̗͓̣̝̜̻̪̏̀̂i̸̱͊̋̾ţ̸̫̙͉̭̙̈́̐̓͐ͅ ̷̨̜̱͔̪͍̲͈̍́̆̚͘͝͝ḩ̷̛̪͕̻͖̪̞̗̲̆̔́̂̓͜ŭ̸̡͇̜̘̱̹̯̐͜r̵̛̲̔͊͛̉̋̕t̸̡̫̦̯͖̫̙͈͇̉͆s̸̟͗̓ ̶̧̧̱̥̦̺̼̮̒̈́̃̿̽̌̔́̔̕.̷͓̼͆̏̐̈́͊̍̈́͗͝
-
-
-ᵈᵒ ʸᵒᵘ ᶠᵉᵉˡ ˡᵒᵛᵉ, ˡᵒᵛᵉ , ˡᵒᵛᵉ?
-
-
-
-
-
-
-    
