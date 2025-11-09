@@ -1,16 +1,40 @@
-## Hi there 👋
+<h5 align="center">
 
-<!--
-**Rylii/Rylii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqokoegajddtfezndvbdemnqpm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c51b1b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqokoegajddtfezndvbdemnqpm&redirect=true)
+                                      <p align="center" width="100%"> <img src="https://komarev.com/ghpvc/?username=Nshimuraz&label=&color=393939">
+                                   
+   Specter | Bad Omens.
+   
+ 0:24 ─●──────── -2:56
+    
+ ⇄ ◃◃   ⅠⅠ   ▹▹ ↻ 
 
-Here are some ideas to get you started:
+       
+   Something you're missing made who you were 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+dₒ yₒᵤ fₑₑₗ ₗₒᵥₑ ?
+
+ 
+ Cause I've kept my distance,
+
+  It just made it worse. 
+
+ⁱ ᵏⁿᵒʷ ⁱ ᵈᵒⁿ'ᵗ 
+
+But I've learned to live                          
+ʷⁱᵗʰ ⁿᵒ ᵒⁿᵉ ᵗᵒ ʰᵒˡᵈ
+
+
+![1648f9a18ed43d17d7ca75315282870a](https://github.com/user-attachments/assets/a4b85df1-3fbb-420c-aa80-74720f582119)
+
+W̶̠̪̬̟̬̮͙̼͠i̷̢̢̲̗͈̤̓̅̓̿̓̄t̸̛̘̭̮͙͍̟̜͆̿͒͑̈́͆̈́͠h̵̗̒ ̶̮̬̘̝͈̟̠̜́̓͐͌̽̿͠t̷̢̢̘̜̗̖̗̗̟̻̆̀̏̆͠ḩ̵̹͚̮̤̈́ę̸̢̧̥̖̱̳͈̈́͐͜͝ ̷̛̠̟̈́̓̒̾w̵̬͕̪͙̯̣̾̋̓a̶̙̝͖̺̼̜͗̂̿͒̅̀͜ͅy̶̨̦̝̼̺̪͚̩͕̋̈́͂͂̅́̏̽̕͜͝ ̵̳̙͎̈t̵̨̺͉͚̟͓͙͑̎̆̓͑͑̚̚͜͝h̷͈̙͍͚̃a̴̢͚̝̤̓̌͐̆̎̂̐̃ͅt̴̢̧͓̥͕͖͎̦̻̀ ̷̛͇̗͓̣̝̜̻̪̏̀̂i̸̱͊̋̾ţ̸̫̙͉̭̙̈́̐̓͐ͅ ̷̨̜̱͔̪͍̲͈̍́̆̚͘͝͝ḩ̷̛̪͕̻͖̪̞̗̲̆̔́̂̓͜ŭ̸̡͇̜̘̱̹̯̐͜r̵̛̲̔͊͛̉̋̕t̸̡̫̦̯͖̫̙͈͇̉͆s̸̟͗̓ ̶̧̧̱̥̦̺̼̮̒̈́̃̿̽̌̔́̔̕.̷͓̼͆̏̐̈́͊̍̈́͗͝
+
+
+ᵈᵒ ʸᵒᵘ ᶠᵉᵉˡ ˡᵒᵛᵉ, ˡᵒᵛᵉ , ˡᵒᵛᵉ?
+
+
+
+
+
+
+    
