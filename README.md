@@ -27,4 +27,4 @@ To eternity, or perhaps even beyond
   You and me, or "we"  
 
 
-<img width="1000" height="333" alt="Image" src="https://github.com/user-attachments/assets/26658891-d421-4d55-aa1e-eda22c023b2b" />
+<img width="740" height="580" alt="Image" src="https://github.com/user-attachments/assets/130fc500-3e42-43a9-b40f-0eb314314e49" />
