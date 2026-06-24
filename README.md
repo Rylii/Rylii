@@ -1,7 +1,7 @@
 <h5 align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=u9v6qafcoznpsh9b98b1lujws&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1a1414&interchange=false&profanity=false&bar_color=6dd26a&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-                                     <img width="1000" height="333" alt="Image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7df560a-6370-4c90-bf45-730a73491bbb/dks0esl-68529cfb-beaa-433b-80c5-3cab775c8822.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lN2RmNTYwYS02MzcwLTRjOTAtYmY0NS03MzBhNzM0OTFiYmIvZGtzMGVzbC02ODUyOWNmYi1iZWFhLTQzM2ItODBjNS0zY2FiNzc1Yzg4MjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Fv9x640scJp2KJwgaOiRnsDRdX35ryTWqFv0nFyMSto" />
+                                     <img width="1000" height="333" alt="Image" src="https://media.discordapp.net/attachments/818970198206971907/1519149570075000912/Untitled505_20260623211739.png?ex=6a3c81c9&is=6a3b3049&hm=beca242624db2cf96efa6cd315da8e31d33b369df09dd2a5ff47a5a82c3704e2&=&format=webp&quality=lossless&width=1316&height=439" />
                                    
    Karma | Akugetsu.
    
